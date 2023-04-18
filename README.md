@@ -23,7 +23,7 @@
   </tr>
   <tr>
     <th>16/4 - 22/4</th>
-    <th> Pending... </th>
+    <th> Herrera, Osman</th>
     <th>          </th>
   </tr>
   <tr>
