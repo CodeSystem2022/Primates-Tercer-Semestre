@@ -123,7 +123,7 @@
     </tr>
     <tr>
       <th>3</th>
-      <th>Edit...</th>
+      <th>Herrera, Osman</th>
     </tr>
     <tr>
       <th>4</th>
