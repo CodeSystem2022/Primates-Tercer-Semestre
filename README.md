@@ -115,7 +115,7 @@
     </tr>
     <tr>
       <th>1</th>
-      <th>Edit...</th>
+      <th>Barra, Mauricio</th>
     </tr>
     <tr>
       <th>2</th>
