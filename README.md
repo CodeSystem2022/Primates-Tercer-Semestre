@@ -135,7 +135,7 @@
     </tr>
     <tr>
       <th>6</th>
-      <th>Edit...</th>
+      <th>Patané, Valentino</th>
     </tr>
     <tr>
       <th>7</th>
