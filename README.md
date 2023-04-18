@@ -119,7 +119,7 @@
     </tr>
     <tr>
       <th>2</th>
-      <th>Edit...</th>
+      <th>Choquevillca, Tania</th>
     </tr>
     <tr>
       <th>3</th>
