@@ -18,7 +18,7 @@
   </tr>
   <tr>
     <th>9/4 - 15/4</th>
-    <th> Pending... </th>
+    <th>Sgandurra, Guillermo</th>
     <th>          </th>
   </tr>
   <tr>
@@ -147,7 +147,7 @@
     </tr>
     <tr>
       <th>9</th>
-      <th>Edit...</th>
+      <th>Sgandurra, Guillermo</th>
     </tr>
     <tr>
       <th>10</th>
