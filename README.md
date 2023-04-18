@@ -127,7 +127,7 @@
     </tr>
     <tr>
       <th>4</th>
-      <th>Edit...</th>
+      <th>Lopez, Andrés</th>
     </tr>
     <tr>
       <th>5</th>
@@ -151,7 +151,7 @@
     </tr>
     <tr>
       <th>10</th>
-      <th>Sgandurra, Nciolás</th>
+      <th>Sgandurra, Nicolás</th>
     </tr>
   </table>
 
