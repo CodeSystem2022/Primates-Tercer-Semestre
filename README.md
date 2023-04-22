@@ -131,7 +131,7 @@
     </tr>
     <tr>
       <th>5</th>
-      <th>Rinaldi, Lucas</th>
+      <th>Edit...</th>
     </tr>
     <tr>
       <th>6</th>
@@ -143,7 +143,7 @@
     </tr>
     <tr>
       <th>8</th>
-      <th>Edit...</th>
+      <th>Rinaldi, Lucas</th>
     </tr>
     <tr>
       <th>9</th>
