@@ -14,7 +14,7 @@
   <tr>
     <th>2/4 - 8/4</th>
     <th>Sgandurra, Nicolás</th>
-    <th>          </th>
+    <th> 🟢 </th>
   </tr>
   <tr>
     <th>9/4 - 15/4</th>
