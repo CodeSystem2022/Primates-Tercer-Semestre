@@ -23,13 +23,13 @@
   </tr>
   <tr>
     <th>16/4 - 22/4</th>
-    <th> Herrera, Osman</th>
+    <th>Lopez, Andrés</th>
     <th>          </th>
   </tr>
   <tr>
     <th>23/4 - 29/4</th>
-    <th> Lopez, Andrés </th>
-    <th>          </th>
+    <th>  </th>
+    <th>Herrera, Osman</th>
   </tr>
   <tr>
     <th>30/4 - 6/5</th>
