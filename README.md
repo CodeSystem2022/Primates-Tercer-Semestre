@@ -28,8 +28,8 @@
   </tr>
   <tr>
     <th>23/4 - 29/4</th>
-    <th>  </th>
-    <th>Herrera, Osman</th>
+    <th> Herrera, Osman </th>
+    <th>          </th>
   </tr>
   <tr>
     <th>30/4 - 6/5</th>
