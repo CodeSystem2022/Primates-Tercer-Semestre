@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <th>23/4 - 29/4</th>
-    <th> Pending... </th>
+    <th> Lopez, Andrés </th>
     <th>          </th>
   </tr>
   <tr>
@@ -53,7 +53,7 @@
   </tr>
   <tr>
     <th>28/4 - 3/6</th>
-    <th> Lopez, Andrés </th>
+    <th> Pending... </th>
     <th>          </th>
   </tr>
   <tr>
