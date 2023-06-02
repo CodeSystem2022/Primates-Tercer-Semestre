@@ -19,7 +19,7 @@
   <tr>
     <th>9/4 - 15/4</th>
     <th>Sgandurra, Guillermo</th>
-    <th>          </th>
+    <th> 🟢 </th>
   </tr>
   <tr>
     <th>16/4 - 22/4</th>
