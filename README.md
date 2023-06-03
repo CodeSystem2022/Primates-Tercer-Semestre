@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <th>14/5 - 20/5</th>
-    <th> Rinaldi, Lucas. </th>
+    <th> Rinaldi, Lucas </th>
     <th>          </th>
   </tr>
   <tr>
