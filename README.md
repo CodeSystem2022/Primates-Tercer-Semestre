@@ -38,7 +38,7 @@
   </tr>
   <tr>
     <th>7/5 - 13/5</th>
-    <th> Pending... </th>
+    <th> Reinoso, Agustín </th>
     <th>          </th>
   </tr>
   <tr>
