@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <th>21/4 - 27/5</th>
-    <th> Pending... </th>
+    <th>  Choquevillca, Tania </th>
     <th>          </th>
   </tr>
   <tr>
