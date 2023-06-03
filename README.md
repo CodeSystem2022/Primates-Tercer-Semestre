@@ -33,7 +33,7 @@
   </tr>
   <tr>
     <th>30/4 - 6/5</th>
-    <th> Pending... </th>
+    <th> Patané, Valentino </th>
     <th>          </th>
   </tr>
   <tr>
