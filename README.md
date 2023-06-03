@@ -139,7 +139,7 @@
     </tr>
     <tr>
       <th>7</th>
-      <th>Edit...</th>
+      <th>Reinoso, Agustín</th>
     </tr>
     <tr>
       <th>8</th>
