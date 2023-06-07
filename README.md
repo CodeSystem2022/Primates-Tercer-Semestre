@@ -131,7 +131,7 @@
     </tr>
     <tr>
       <th>5</th>
-      <th>Edit...</th>
+      <th>Serna, Damián</th>
     </tr>
     <tr>
       <th>6</th>
