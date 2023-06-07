@@ -12,72 +12,72 @@
     <th>Status</th>
   </tr>
   <tr>
-    <th>2/4 - 8/4</th>
+    <th>3/4 - 9/4</th>
     <th>Sgandurra, Nicolás</th>
     <th> 🟢 </th>
   </tr>
   <tr>
-    <th>9/4 - 15/4</th>
+    <th>10/4 - 16/4</th>
     <th>Sgandurra, Guillermo</th>
     <th> 🟢 </th>
   </tr>
   <tr>
-    <th>16/4 - 22/4</th>
+    <th>17/4 - 23/4</th>
     <th>Lopez, Andrés</th>
     <th>          </th>
   </tr>
   <tr>
-    <th>23/4 - 29/4</th>
+    <th>24/4 - 30/4</th>
     <th> Herrera, Osman </th>
     <th>          </th>
   </tr>
   <tr>
-    <th>30/4 - 6/5</th>
+    <th>1/4 - 7/5</th>
     <th> Patané, Valentino </th>
     <th>          </th>
   </tr>
   <tr>
-    <th>7/5 - 13/5</th>
+    <th>8/5 - 14/5</th>
     <th> Reinoso, Agustín </th>
     <th>          </th>
   </tr>
   <tr>
-    <th>14/5 - 20/5</th>
+    <th>15/5 - 21/5</th>
     <th> Rinaldi, Lucas </th>
     <th>          </th>
   </tr>
   <tr>
-    <th>21/4 - 27/5</th>
+    <th>22/5 - 28/5</th>
     <th>  Choquevillca, Tania </th>
     <th>          </th>
   </tr>
   <tr>
-    <th>28/4 - 3/6</th>
+    <th>29/5 - 5/6</th>
     <th> Pending... </th>
     <th>          </th>
   </tr>
   <tr>
-    <th>4/6 - 10/6</th>
+    <th>6/6 - 12/6</th>
     <th> Pending... </th>
     <th>          </th>
   </tr>
   <tr>
-    <th>11/6 - 17/6</th>
+    <th>13/6 - 19/6</th>
     <th> Pending... </th>
     <th>          </th>
   </tr>
   <tr>
-    <th>18/6 - 24/6</th>
-    <th> Pending... </th>
-    <th>          </th>
-  </tr>
-  <tr>
-    <th>25/6 - 1/7</th>
+    <th>20/6 - 26/6</th>
     <th> Pending... </th>
     <th>          </th>
   </tr>
   <tr>
     <th>2/7 - 8/7</th>
+    <th> Pending... </th>
+    <th>          </th>
+  </tr>
+  <tr>
+    <th>9/7 - 15/7</th>
     <th> Pending... </th>
     <th>          </th>
   </tr>
