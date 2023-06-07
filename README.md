@@ -58,7 +58,7 @@
   </tr>
   <tr>
     <th>6/6 - 12/6</th>
-    <th> Pending... </th>
+    <th> Serna, Damián </th>
     <th>          </th>
   </tr>
   <tr>
