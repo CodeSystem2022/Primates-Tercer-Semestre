@@ -53,7 +53,7 @@
   </tr>
   <tr>
     <th>29/5 - 5/6</th>
-    <th> Pending... </th>
+    <th> Barra, Mauricio </th>
     <th>          </th>
   </tr>
   <tr>
