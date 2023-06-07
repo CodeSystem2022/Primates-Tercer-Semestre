@@ -32,7 +32,7 @@
     <th>          </th>
   </tr>
   <tr>
-    <th>1/4 - 7/5</th>
+    <th>1/5 - 7/5</th>
     <th> Patané, Valentino </th>
     <th>          </th>
   </tr>
