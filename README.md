@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <th>3/4 - 9/4</th>
-    <th>Sgandurra, Nicolás</th>
+    <th>Sgandurra, Nicolas</th>
     <th> 🟢 </th>
   </tr>
   <tr>
@@ -24,7 +24,7 @@
   <tr>
     <th>17/4 - 23/4</th>
     <th>Lopez, Andrés</th>
-    <th>          </th>
+    <th> 🟢 </th>
   </tr>
   <tr>
     <th>24/4 - 30/4</th>
@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <th>13/6 - 19/6</th>
-    <th> Pending... </th>
+    <th>Sgandurra, Nicolas</th>
     <th>          </th>
   </tr>
   <tr>
