@@ -29,7 +29,7 @@
   <tr>
     <th>24/4 - 30/4</th>
     <th> Herrera, Osman </th>
-    <th>          </th>
+    <th> 🟢 </th>
   </tr>
   <tr>
     <th>1/5 - 7/5</th>
