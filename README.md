@@ -39,12 +39,12 @@
   <tr>
     <th>8/5 - 14/5</th>
     <th> Reinoso, Agustín </th>
-    <th>          </th>
+    <th> 🟢 </th>
   </tr>
   <tr>
     <th>15/5 - 21/5</th>
     <th> Rinaldi, Lucas </th>
-    <th>🟢</th>
+    <th> 🟢 </th>
   </tr>
   <tr>
     <th>22/5 - 28/5</th>
