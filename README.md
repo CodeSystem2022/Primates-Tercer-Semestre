@@ -34,7 +34,7 @@
   <tr>
     <th>1/5 - 7/5</th>
     <th> Patané, Valentino </th>
-    <th>          </th>
+    <th> 🟢 </th>
   </tr>
   <tr>
     <th>8/5 - 14/5</th>
