@@ -58,7 +58,7 @@
   </tr>
   <tr>
     <th>6/6 - 12/6</th>
-    <th> Serna, Damián </th>
+    <th> Rinaldi, Lucas </th>
     <th>          </th>
   </tr>
   <tr>
