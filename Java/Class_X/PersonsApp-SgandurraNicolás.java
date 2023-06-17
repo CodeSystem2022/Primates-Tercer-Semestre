@@ -13,7 +13,7 @@ public class PersonsApp {
             try{
                 exit = executeOperation(input, personas);
             }catch (Exception ex){
-                System.out.println("Ocurrio un error: "+ex.getMessage());
+                System.out.println("Ocurrió un error: "+ex.getMessage());
             }
             System.out.println();
         } // Fin del while
