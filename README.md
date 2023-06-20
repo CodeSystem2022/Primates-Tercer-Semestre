@@ -7,77 +7,77 @@
 ## Organización
 <table style="width: 100%; text-align: center;">
   <tr>
-    <th>Semana</th>
+    <th>Clase</th>
     <th>SCRUM Master</th>
     <th>Status</th>
   </tr>
   <tr>
-    <th>3/4 - 9/4</th>
+    <th>I</th>
     <th>Sgandurra, Nicolas</th>
     <th> 🟢 </th>
   </tr>
   <tr>
-    <th>10/4 - 16/4</th>
+    <th>II</th>
     <th>Sgandurra, Guillermo</th>
     <th> 🟢 </th>
   </tr>
   <tr>
-    <th>17/4 - 23/4</th>
+    <th>III</th>
     <th>Lopez, Andrés</th>
     <th> 🟢 </th>
   </tr>
   <tr>
-    <th>24/4 - 30/4</th>
+    <th>IV</th>
     <th> Herrera, Osman </th>
     <th> 🟢 </th>
   </tr>
   <tr>
-    <th>1/5 - 7/5</th>
+    <th>V</th>
     <th> Patané, Valentino </th>
     <th> 🟢 </th>
   </tr>
   <tr>
-    <th>8/5 - 14/5</th>
+    <th>VI</th>
     <th> Reinoso, Agustín </th>
     <th> 🟢 </th>
   </tr>
   <tr>
-    <th>15/5 - 21/5</th>
+    <th>VII</th>
     <th> Rinaldi, Lucas </th>
     <th> 🟢 </th>
   </tr>
   <tr>
-    <th>22/5 - 28/5</th>
+    <th>VIII</th>
     <th>  Choquevillca, Tania </th>
     <th>          </th>
   </tr>
   <tr>
-    <th>29/5 - 5/6</th>
+    <th>IX</th>
     <th> Barra, Mauricio </th>
     <th>          </th>
   </tr>
   <tr>
-    <th>6/6 - 12/6</th>
+    <th>X</th>
     <th> Rinaldi, Lucas </th>
     <th> 🟢 </th>
   </tr>
   <tr>
-    <th>13/6 - 19/6</th>
+    <th>XI</th>
     <th>Sgandurra, Nicolas</th>
     <th>  🟣  </th>
   </tr>
   <tr>
-    <th>20/6 - 26/6</th>
+    <th>XII</th>
     <th> Pending... </th>
     <th>          </th>
   </tr>
   <tr>
-    <th>2/7 - 8/7</th>
+    <th>XIII</th>
     <th> Pending... </th>
     <th>          </th>
   </tr>
   <tr>
-    <th>9/7 - 15/7</th>
+    <th>XIV</th>
     <th> Pending... </th>
     <th>          </th>
   </tr>
@@ -92,15 +92,15 @@
   <table>
     <tr>
       <th>Python</th>
-      <th> <img src="https://user-images.githubusercontent.com/111594677/232658922-1758a4c2-aeb5-4e1d-8a24-ed18d30e2265.png" alt="imagen" width="30"> </th>
+      <th> <img src="https://user-images.githubusercontent.com/111594677/232658922-1758a4c2-aeb5-4e1d-8a24-ed18d30e2265.png" alt="imagen" width="25"> </th>
     </tr>
     <tr>
       <th>Java</th>
-      <th> <img src="https://user-images.githubusercontent.com/111594677/232658674-541d1ad3-6a9e-4dd3-87b7-32a153cd0753.png" alt="imagen" width="35"> </th>
+      <th> <img src="https://user-images.githubusercontent.com/111594677/232658674-541d1ad3-6a9e-4dd3-87b7-32a153cd0753.png" alt="imagen" width="25"> </th>
     </tr>
     <tr>
       <th>JScript</th>
-      <th> <img src="https://user-images.githubusercontent.com/111594677/232659377-a34daabe-5216-44b3-a4c6-02e880d21312.png" alt="imagen" width="30"> </th>
+      <th> <img src="https://user-images.githubusercontent.com/111594677/232659377-a34daabe-5216-44b3-a4c6-02e880d21312.png" alt="imagen" width="25"> </th>
     </tr>
   </table>
 </div>
