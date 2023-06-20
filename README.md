@@ -59,12 +59,12 @@
   <tr>
     <th>6/6 - 12/6</th>
     <th> Rinaldi, Lucas </th>
-    <th>          </th>
+    <th> 🟢 </th>
   </tr>
   <tr>
     <th>13/6 - 19/6</th>
     <th>Sgandurra, Nicolas</th>
-    <th>          </th>
+    <th>  🟣  </th>
   </tr>
   <tr>
     <th>20/6 - 26/6</th>
