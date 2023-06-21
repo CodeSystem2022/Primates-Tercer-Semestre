@@ -7,77 +7,77 @@
 ## Organización
 <table style="width: 100%; text-align: center;">
   <tr>
-    <th>Semana</th>
+    <th>Clase</th>
     <th>SCRUM Master</th>
     <th>Status</th>
   </tr>
   <tr>
-    <th>2/4 - 8/4</th>
-    <th>Sgandurra, Nicolás</th>
-    <th>          </th>
+    <th>I</th>
+    <th>Sgandurra, Nicolas</th>
+    <th> 🟢 </th>
   </tr>
   <tr>
-    <th>9/4 - 15/4</th>
+    <th>II</th>
     <th>Sgandurra, Guillermo</th>
+    <th> 🟢 </th>
+  </tr>
+  <tr>
+    <th>III</th>
+    <th>Lopez, Andrés</th>
+    <th> 🟢 </th>
+  </tr>
+  <tr>
+    <th>IV</th>
+    <th> Herrera, Osman </th>
+    <th> 🟢 </th>
+  </tr>
+  <tr>
+    <th>V</th>
+    <th> Patané, Valentino </th>
+    <th> 🟢 </th>
+  </tr>
+  <tr>
+    <th>VI</th>
+    <th> Reinoso, Agustín </th>
+    <th> 🟢 </th>
+  </tr>
+  <tr>
+    <th>VII</th>
+    <th> Rinaldi, Lucas </th>
+    <th> 🟢 </th>
+  </tr>
+  <tr>
+    <th>VIII</th>
+    <th>  Choquevillca, Tania </th>
     <th>          </th>
   </tr>
   <tr>
-    <th>16/4 - 22/4</th>
-    <th> Herrera, Osman</th>
+    <th>IX</th>
+    <th> Barra, Mauricio </th>
     <th>          </th>
   </tr>
   <tr>
-    <th>23/4 - 29/4</th>
+    <th>X</th>
+    <th> Rinaldi, Lucas </th>
+    <th> 🟢 </th>
+  </tr>
+  <tr>
+    <th>XI</th>
+    <th>Sgandurra, Nicolas</th>
+    <th>  🟣  </th>
+  </tr>
+  <tr>
+    <th>XII</th>
     <th> Pending... </th>
     <th>          </th>
   </tr>
   <tr>
-    <th>30/4 - 6/5</th>
+    <th>XIII</th>
     <th> Pending... </th>
     <th>          </th>
   </tr>
   <tr>
-    <th>7/5 - 13/5</th>
-    <th> Pending... </th>
-    <th>          </th>
-  </tr>
-  <tr>
-    <th>14/5 - 20/5</th>
-    <th> Pending... </th>
-    <th>          </th>
-  </tr>
-  <tr>
-    <th>21/4 - 27/5</th>
-    <th> Pending... </th>
-    <th>          </th>
-  </tr>
-  <tr>
-    <th>28/4 - 3/6</th>
-    <th> Pending... </th>
-    <th>          </th>
-  </tr>
-  <tr>
-    <th>4/6 - 10/6</th>
-    <th> Pending... </th>
-    <th>          </th>
-  </tr>
-  <tr>
-    <th>11/6 - 17/6</th>
-    <th> Pending... </th>
-    <th>          </th>
-  </tr>
-  <tr>
-    <th>18/6 - 24/6</th>
-    <th> Pending... </th>
-    <th>          </th>
-  </tr>
-  <tr>
-    <th>25/6 - 1/7</th>
-    <th> Pending... </th>
-    <th>          </th>
-  </tr>
-  <tr>
-    <th>2/7 - 8/7</th>
+    <th>XIV</th>
     <th> Pending... </th>
     <th>          </th>
   </tr>
@@ -92,15 +92,15 @@
   <table>
     <tr>
       <th>Python</th>
-      <th> <img src="https://user-images.githubusercontent.com/111594677/232658922-1758a4c2-aeb5-4e1d-8a24-ed18d30e2265.png" alt="imagen" width="30"> </th>
+      <th> <img src="https://user-images.githubusercontent.com/111594677/232658922-1758a4c2-aeb5-4e1d-8a24-ed18d30e2265.png" alt="imagen" width="25"> </th>
     </tr>
     <tr>
       <th>Java</th>
-      <th> <img src="https://user-images.githubusercontent.com/111594677/232658674-541d1ad3-6a9e-4dd3-87b7-32a153cd0753.png" alt="imagen" width="35"> </th>
+      <th> <img src="https://user-images.githubusercontent.com/111594677/232658674-541d1ad3-6a9e-4dd3-87b7-32a153cd0753.png" alt="imagen" width="25"> </th>
     </tr>
     <tr>
       <th>JScript</th>
-      <th> <img src="https://user-images.githubusercontent.com/111594677/232659377-a34daabe-5216-44b3-a4c6-02e880d21312.png" alt="imagen" width="30"> </th>
+      <th> <img src="https://user-images.githubusercontent.com/111594677/232659377-a34daabe-5216-44b3-a4c6-02e880d21312.png" alt="imagen" width="25"> </th>
     </tr>
   </table>
 </div>
@@ -131,7 +131,7 @@
     </tr>
     <tr>
       <th>5</th>
-      <th>Edit...</th>
+      <th>Serna, Damián</th>
     </tr>
     <tr>
       <th>6</th>
@@ -139,7 +139,7 @@
     </tr>
     <tr>
       <th>7</th>
-      <th>Edit...</th>
+      <th>Reinoso, Agustín</th>
     </tr>
     <tr>
       <th>8</th>
