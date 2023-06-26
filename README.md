@@ -54,7 +54,7 @@
   <tr>
     <th>IX</th>
     <th> Barra, Mauricio </th>
-    <th>          </th>
+    <th>  🟢  </th>
   </tr>
   <tr>
     <th>X</th>
