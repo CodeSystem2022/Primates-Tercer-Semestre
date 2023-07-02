@@ -1,5 +1,3 @@
-# Primates-Tercer-Semestre-Asistencia
-
 ![repository-open-graph-template](https://user-images.githubusercontent.com/111594677/232668817-8e98b10a-384f-4730-a592-ff342a4272ca.png)
 
 *Repositorio para colocar la asistencia correspondiente a los alumnos del grupo "Primates"*
