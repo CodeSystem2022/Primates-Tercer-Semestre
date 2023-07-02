@@ -64,12 +64,12 @@
   <tr>
     <th>XI</th>
     <th>Sgandurra, Nicolas</th>
-    <th>  🟣  </th>
+    <th>  🟢  </th>
   </tr>
   <tr>
-    <th>XII</th>
-    <th> Pending... </th>
-    <th>          </th>
+    <th>XI</th>
+    <th>Sgandurra, Nicolas</th>
+    <th>  🟢  </th>
   </tr>
   <tr>
     <th>XIII</th>
